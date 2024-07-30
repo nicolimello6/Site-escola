@@ -14,11 +14,8 @@ padding: 24px 0;
 .cabecalho-imagem{
     width: 20%;
 }
-.escola-imagem{
-    width: 25%;
-}
 .escola{
-    background-image: linear-gradient(#383D58;#00c0eb);
-    color: white;
-    display: flex;
+background-image: linear-gradient(#383D58; #00c0eb;)
+color:black;
+display: flex;
 }
